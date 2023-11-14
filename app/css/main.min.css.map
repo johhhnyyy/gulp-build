@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,KACE,MAAA,KACA,WACE,MAAA,KAIJ,IACE,iBAAA","file":"main.min.css","sourcesContent":[".red {\r\n  color: #000;\r\n  &__item {\r\n    color: blue;\r\n  }\r\n}\r\n\r\ndiv {\r\n  background-color: gold;\r\n}"]}
